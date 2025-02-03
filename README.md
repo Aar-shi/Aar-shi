@@ -3,7 +3,7 @@
 <h1 align="center">Heyaa !! I'm Aarshi Mitra</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sp-sayan&label=Profile%20views&color=0e75b6&style=flat" alt="sp-sayan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aar-shi&label=Profile%20views&color=0e75b6&style=flat" alt="sp-sayan" /> </p>
 
 - 🌱 I’m currently focusing on **DSA**
 

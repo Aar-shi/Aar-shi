@@ -30,8 +30,8 @@
 <h3 align="left">Profile Stats:</h3>
 <hr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aar-shi&" alt="aar-shi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aar-shi&show_icons=true&locale=en" alt="aar-shi" /></p>
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=aar-shi&show_icons=true&locale=en&layout=compact" alt="aar-shi" /></p>
+<p><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=aar-shi&" alt="aar-shi" /></p>
+<p>&nbsp;<img align="right" width="100%" src="https://github-readme-stats.vercel.app/api?username=aar-shi&show_icons=true&locale=en" alt="aar-shi" /></p>
+<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aar-shi&show_icons=true&locale=en&layout=compact" alt="aar-shi" /></p>
 
 

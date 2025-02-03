@@ -18,9 +18,9 @@
 <h3 align="left">Connect with me:</h3>
 <hr>
 <p align="center">
-<a href="https://www.linkedin.com/in/aarshi-mitra-625021258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aarshi-mitra-625021258" height="30" width="40" /></a>
-<a href="https://www.facebook.com/share/1De2YMB7TB/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aarshi mitra" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ayo.its.aarshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayo.its.aarshi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aarshi-mitra-625021258" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="aarshi-mitra-625021258" height="15%" width="15%" /></a>
+<a href="https://www.facebook.com/share/1De2YMB7TB/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="aarshi mitra" height="15%" width="15%" /></a>
+<a href="https://www.instagram.com/ayo.its.aarshi" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="ayo.its.aarshi" height="15%" width="15%" /></a>
 </p>
 
 <h3 align="left">Techstack:</h3>
